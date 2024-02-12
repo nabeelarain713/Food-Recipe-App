@@ -3,6 +3,7 @@ const mealList = document.getElementById('meal');
 const mealDetailsContent = document.querySelector('.meal-details-content');
 const recipeCloseBtn = document.getElementById('recipe-close-btn');
 
+//App id & key
 const APP_ID = 'd5a0ad1b';
 const APP_key = 'f0103794e975f8ef5c89449b6bc1f598';
 let results = "";
@@ -65,6 +66,7 @@ function getMealRecipe(e){
         mealRecipeModal(meal);
     }
 }
+
 
 // create a modal
 function mealRecipeModal(meal){
