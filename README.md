@@ -1,5 +1,4 @@
 ## This is the second project of my Web3gle Internship.
 
-## Video:
-# Here is the drive link of my project video.
-# Link: https://drive.google.com/drive/folders/17JkpM9JYviyalIRWGtkMx71ccCyJTugP?usp=sharing
+
+## Demo Link: https://drive.google.com/drive/folders/17JkpM9JYviyalIRWGtkMx71ccCyJTugP?usp=sharing
